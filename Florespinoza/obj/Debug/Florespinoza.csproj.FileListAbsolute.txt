@@ -1,0 +1,7 @@
+C:\Users\PC-26\source\repos\Florespinoza\bin\Debug\Florespinoza.exe.config
+C:\Users\PC-26\source\repos\Florespinoza\bin\Debug\Florespinoza.exe
+C:\Users\PC-26\source\repos\Florespinoza\bin\Debug\Florespinoza.pdb
+C:\Users\PC-26\source\repos\Florespinoza\obj\Debug\Florespinoza.csproj.AssemblyReference.cache
+C:\Users\PC-26\source\repos\Florespinoza\obj\Debug\Florespinoza.csproj.CoreCompileInputs.cache
+C:\Users\PC-26\source\repos\Florespinoza\obj\Debug\Florespinoza.exe
+C:\Users\PC-26\source\repos\Florespinoza\obj\Debug\Florespinoza.pdb
